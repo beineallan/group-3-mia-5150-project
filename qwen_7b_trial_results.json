@@ -1,0 +1,142 @@
+[
+  {
+    "claim_id": 3,
+    "claim": "1,000 genomes project enables mapping of genetic sequence variation consisting of rare variants with larger penetrance effects than common variants.",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 5,
+    "claim": "1/2000 in UK have abnormal PrP positivity.",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "CONTRADICT"
+  },
+  {
+    "claim_id": 42,
+    "claim": "A high microerythrocyte count raises vulnerability to severe anemia in homozygous alpha (+)- thalassemia trait subjects.",
+    "gold_label": "CONTRADICT",
+    "bm25_prediction": "CONTRADICT",
+    "dense_prediction": "CONTRADICT"
+  },
+  {
+    "claim_id": 48,
+    "claim": "A total of 1,000 people in the UK are asymptomatic carriers of vCJD infection.",
+    "gold_label": "CONTRADICT",
+    "bm25_prediction": "CONTRADICT",
+    "dense_prediction": "CONTRADICT"
+  },
+  {
+    "claim_id": 49,
+    "claim": "ADAR1 binds to Dicer to cleave pre-miRNA.",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 50,
+    "claim": "AIRE is expressed in some skin tumors.",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 51,
+    "claim": "ALDH1 expression is associated with better breast cancer outcomes.",
+    "gold_label": "CONTRADICT",
+    "bm25_prediction": "CONTRADICT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 53,
+    "claim": "ALDH1 expression is associated with poorer prognosis in breast cancer.",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 54,
+    "claim": "AMP-activated protein kinase (AMPK) activation increases inflammation-related fibrosis in the lungs.",
+    "gold_label": "CONTRADICT",
+    "bm25_prediction": "CONTRADICT",
+    "dense_prediction": "CONTRADICT"
+  },
+  {
+    "claim_id": 56,
+    "claim": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation causing GABA neuron degeneration.",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 57,
+    "claim": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation, delaying GABA neuron degeneration.",
+    "gold_label": "CONTRADICT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 70,
+    "claim": "Activation of PPM1D suppresses p53 function.",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "CONTRADICT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 100,
+    "claim": "All hematopoietic stem cells segregate their chromosomes randomly.",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "CONTRADICT"
+  },
+  {
+    "claim_id": 113,
+    "claim": "Angiotensin converting enzyme inhibitors are associated with increased risk for functional renal insufficiency.",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "CONTRADICT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 115,
+    "claim": "Anthrax spores can be disposed of easily after they are dispersed.",
+    "gold_label": "CONTRADICT",
+    "bm25_prediction": "CONTRADICT",
+    "dense_prediction": "CONTRADICT"
+  },
+  {
+    "claim_id": 118,
+    "claim": "Antibiotic induced alterations in the gut microbiome reduce resistance against Clostridium difficile",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 124,
+    "claim": "Antiretroviral therapy reduces rates of tuberculosis across a broad range of CD4 strata.",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 129,
+    "claim": "Articles published in open access format are less likely to be cited than traditional journals.",
+    "gold_label": "CONTRADICT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 130,
+    "claim": "Articles published in open access format are more likely to be cited than traditional journals.",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "SUPPORT"
+  },
+  {
+    "claim_id": 133,
+    "claim": "Assembly of invadopodia is triggered by focal generation of phosphatidylinositol-3,4-biphosphate and the activation of the nonreceptor tyrosine kinase Src.",
+    "gold_label": "SUPPORT",
+    "bm25_prediction": "SUPPORT",
+    "dense_prediction": "SUPPORT"
+  }
+]
